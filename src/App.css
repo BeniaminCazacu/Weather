@@ -1,0 +1,12 @@
+.formDetails {
+  display: flex;
+  justify-content: center;
+  background-image: url(images/clouds-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.formDetails form {
+  width: 400px;
+  margin-top: 20px;
+}
